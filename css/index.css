@@ -1,0 +1,15 @@
+p {
+    font-size: 34px;
+    color: red;
+    text-decoration: double;
+}
+
+li:nth-of-type(2n) {
+    font-size: 25px;
+    background-color: yellow;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+}
